@@ -154,3 +154,17 @@ body{
     top: 40%;
     left:15%;
 }
+#contactos{
+    height: 100%;
+    width: 22%;
+    position: fixed;
+    top: 12%;
+    left: 90%;
+}
+#contactosTitulo{
+    height: 100%;
+    width: 22%;
+    position: fixed;
+    top: 9%;
+    left: 92%;
+}
