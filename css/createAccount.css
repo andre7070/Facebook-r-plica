@@ -1,0 +1,66 @@
+body{
+    background-color:#18191a;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(224, 224, 224);
+    font-size: 120%;
+}
+#datosPersonales{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+.inputBox{
+    height: 100%;
+    width: 50%;
+    border-radius: 6px;
+}
+#texto1{
+    position: absolute;
+    top: 6%;
+    left: 43%;
+}
+#texto2{
+    position: absolute;
+    top: 10%;
+    left: 43%;
+}
+#fn{
+    position: absolute;
+    top: 30%;
+    left: 40.5%;
+}
+#dias{
+    position: absolute;
+    top: 38%;
+    left: 40%;   
+}
+#meses{
+    position: absolute;
+    top: 38%;
+    left: 43%;   
+}
+#anos{
+    position: absolute;
+    top: 38%;
+    left: 50%;   
+}
+#sexoTexto{
+    position: absolute;
+    top: 40%;
+    left: 45%; 
+}
+#sexos{
+    position: absolute;
+    top: 47%;
+    left: 38%; 
+}
+#derechos{
+    position: absolute;
+    top: 50%;
+    left: 30%; 
+}
+#mujer{
+    color:rgb(224, 224, 224);
+}

@@ -6,28 +6,29 @@ body{
     width: 20%;
     position: absolute;
     top: 15%;
-    left: 20%;
-}
+    left: 20%;}
 #bienvenida{
     color: #fff;
     position: absolute;
     top: 27%;
     left: 20%;
     font-size: 170%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #formulario{
     height: 50%;
-    width: 30%;
+    width: 30%; 
     position: absolute;
     top: 20%;
     left: 60%;
     background-color:#2c2e30;
-    border-radius: 5%;
+    border-radius: 6px;
 }
 #campos{
     position: absolute;
     top: 4%;
     right: 83.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .campo{
     background-color:#5b5f63;
@@ -36,10 +37,12 @@ body{
     display: inline-block;
     margin-top: 1%;
     margin-left: 70%;
-    border-radius: 5%;
+    border-radius: 6px;
 }
 .campo::placeholder{
     color:#d1d1d1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 110%;
 }
 #olvidaste{
     position: absolute;
@@ -63,7 +66,8 @@ body{
     height: 13%;
     width: 60%;
     color:#fff;
-    border-radius: 5%;
+    border-radius: 6px;
+    font-size: 100%;
 }
 #anuncio{
     position: absolute;

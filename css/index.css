@@ -22,7 +22,7 @@ body{
     background-color:#5b5f63;
     height:6%;
     width:18%;
-    border-radius:6%;
+    border-radius:6px;
     border-style: none;
 }
 #buscador{
@@ -32,6 +32,8 @@ body{
 }
 ::placeholder { 
     color: rgb(175, 171, 171);
+    font-size: 90%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #historias{
     height:50%;
@@ -44,10 +46,9 @@ body{
     background-color:#000;
     height: 54%;
     width: 14%;
-    border-radius: 50%;
     display: inline-block;
     margin-left: 1%;
-    border-radius: 5%;
+    border-radius: 6px;
 }
 #logo{
     height: 6%;
@@ -77,7 +78,8 @@ body{
 }
 .text{
     color: #fff;
-    font-size: 70%;
+    font-size: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .terminos{
     color: rgb(204, 204, 204);
@@ -90,13 +92,13 @@ body{
     position: fixed;
     top: 40%;
     left: 34%;
-    border-radius: 8%;
+    border-radius: 6px;
 }
 #post{
     background-color:#5b5f63;
     height:25%;
     width: 80%;
-    border-radius:6%;
+    border-radius:6px;
     border-style: none;
     position: absolute;
     top: 10%;
@@ -125,9 +127,12 @@ body{
     width: 45%;
     display: inline-block;
     margin-left: -0.9%;
-    border-radius: 5%;
+    border-radius: 6px;
     text-align:center;
     color:#8b8f91;
+    font-size: 90%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 #publicaciones{
     background-color:#2c2e30;
@@ -136,7 +141,7 @@ body{
     position: fixed;
     top: 62%;
     left: 34%;
-    border-radius: 8%;
+    border-radius: 6px;
 }
 #amigoFotoPerfil{
     position:absolute;
